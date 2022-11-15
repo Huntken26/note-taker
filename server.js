@@ -1,4 +1,4 @@
-// Added express/path dependencies and setyp variables.
+// Added express/path dependencies and setup variables.
 
 const express = require("express");
 const PORT = process.env.PORT || 3001;
