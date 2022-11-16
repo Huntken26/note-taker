@@ -5,6 +5,7 @@
 
 ## DESCRIPTION:
 
+
 This is a full stack web app which uses express.js to create and save notes.
 
 ## TABLE OF CONTENTS:
@@ -27,6 +28,8 @@ First you must have node js on your computer and then you need the dependencies-
 
 Open the integrated terminal. Make sure you are in the correct file pathway. Run npm i then npm start. Open the local host and use the web app.<br/>
 Here is a video walkthrough:<br/>
+
+https://user-images.githubusercontent.com/107738986/202050414-a1526d20-4a29-4e25-8dce-9c9c54963521.mp4
 
 ## CREDITS:
 
